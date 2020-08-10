@@ -1,5 +1,5 @@
 # Scraper for PC shop on Ebay
-Scaper made with Scrapy for Ebay
+Scraper made with Scrapy for Ebay for specific seller page
 # Usage
 
 ```
